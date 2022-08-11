@@ -1,6 +1,6 @@
 {
   "name": "@lyf-cli-dev/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "lyf-cli-dev core",
   "author": "luoyufeng <1443724970@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"run tests from root\""
   },
   "dependencies": {
-    "@lyf-cli-dev/utils": "^1.0.0"
+    "@lyf-cli-dev/utils": "^0.0.1"
   }
 }
