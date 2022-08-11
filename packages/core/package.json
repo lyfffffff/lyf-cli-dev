@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin":{
+    "lyf-cli-dev":"bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@lyf-cli-dev/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "5b54500748e5b636066677569251e373f9dedb27"
 }
