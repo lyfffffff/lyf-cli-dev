@@ -22,5 +22,8 @@
   "dependencies": {
     "@lyf-cli-dev/utils": "^0.0.2"
   },
-  "gitHead": "5b54500748e5b636066677569251e373f9dedb27"
+  "gitHead": "9ddb3236b8728d34f3c28414d494f664f586ad48",
+  "publishConfig": {
+    "access": "public"
+}
 }
