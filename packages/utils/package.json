@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"run tests from root\""
   },
-  "gitHead": "9ddb3236b8728d34f3c28414d494f664f586ad48",
+  "gitHead": "7061342094559a08ac4b57eccb4f5cb188c98b3d",
   "publishConfig": {
     "access": "public"
   }
