@@ -1,13 +1,13 @@
 {
   "name": "@lyf-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lyf-cli-dev core",
   "author": "luoyufeng <1443724970@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "lyf-cli-dev":"bin/index.js"
+  "bin": {
+    "lyf-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -20,7 +20,7 @@
     "test": "echo \"run tests from root\""
   },
   "dependencies": {
-    "@lyf-cli-dev/utils": "^0.0.1"
+    "@lyf-cli-dev/utils": "^0.0.2"
   },
   "gitHead": "5b54500748e5b636066677569251e373f9dedb27"
 }
