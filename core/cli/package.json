@@ -1,0 +1,44 @@
+{
+  "name": "@lyf-cli-dev/core",
+  "version": "0.0.6",
+  "description": "lyf-cli-dev core",
+  "author": "luoyufeng <1443724970@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "",
+  "bin": {
+    "lyf-cli-dev": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run tests from root\""
+  },
+  "dependencies": {
+    "@lyf-cli-dev/exec": "file:../exec",
+    "@lyf-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
+    "@lyf-cli-dev/init": "file:../../commands/init",
+    "@lyf-cli-dev/log": "file:../../utils/log",
+    "@lyf-cli-dev/publish": "file:../../commands/publish",
+    "colors": "^1.4.0",
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0",
+    "import-local": "^3.1.0",
+    "minimist": "^1.2.7",
+    "npmlog": "^7.0.0",
+    "path-exists": "4.0.0",
+    "root-check": "1.0.0",
+    "semver": "^7.3.8",
+    "user-home": "^3.0.0"
+  },
+  "gitHead": "3d5923bca363be2f327a17704486bd341ede776d",
+  "publishConfig": {
+    "access": "public"
+  }
+}
